@@ -1,0 +1,21 @@
+# Binaries
+mpack
+*.o
+*.so
+
+# Archives
+*.mpk
+*.zip
+*.tar.*
+
+# Mojo cache & temporary files
+.mojo_cache/
+*.tmp
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+unmpack
+*.pdf

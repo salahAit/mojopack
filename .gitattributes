@@ -1,0 +1,4 @@
+# GitHub Linguist language overrides
+# Mark documentation to ensure GitHub reflects 100% Mojo
+DOCS/** linguist-documentation
+*.typ linguist-documentation
